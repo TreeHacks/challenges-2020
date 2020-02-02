@@ -17,11 +17,11 @@ As the voice assistance craze began with the development of Siri, and then Alexa
 We’re looking for creative, innovative ways to apply voice assistance to improve the accessibility and ease of life of individuals. Perhaps you’ll use [Almond](https://almond.stanford.edu/), a privacy-centric virtual assistant built right here at Stanford. Or, perhaps you’ll look at how voice can be used to make hands-on processes safer, like [Chris](https://chris.com/), a voice assistant specifically designed for drivers. Alternatively, perhaps you’re thinking about how voice technology can be made more accessible for people with speech-difficulties or who are hard of hearing. Or, perhaps you’re thinking about how voice assistance can aid people in learning a new language, or how voice assistance is only offered in a small number of languages across the globe. Regardless, we know that you will develop solutions to critical challenges in the voice assistance space, either by applying the technology in a unique way or tackling problems with the technology itself.
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 <!--- Order by time --->
-1. __“Using Technology for ...“__ by [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
+* __“Using Technology for ...“__ by [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
   * Saturday 2/15, 10am - 10:45am, Huang 305
-2. __Office Hours__ with Researchers from the [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
+* __Office Hours__ with Researchers from the [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
   * Saturday 2/15, time tbd.
-3. __“Using Technology for ...“__ by software developers from [Samsung Bixby](https://www.samsung.com/us/explore/bixby/) (still determining if feasible)
+* __“Using Technology for ...“__ by software developers from [Samsung Bixby](https://www.samsung.com/us/explore/bixby/) (still determining if feasible)
   * Saturday 2/15, time tbd.
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * __Voice Assistance Grand Prize__
