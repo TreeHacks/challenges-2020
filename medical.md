@@ -12,10 +12,8 @@ TreeHacks 2019: Awareness Guide: https://treehacks.quip.com/NqcLA8qUk2pO/-TreeHa
 TreeHacks 2019: Safety Guide: https://treehacks.quip.com/HmZJAF1SVbhw/-TreeHacks-Safety-Vertical-Guide-
 --->
 ## :muscle: Inspiration :boom:
-Insert short paragraph (3-5 sentences) about inspiration for this challenge (relevancy to current events, general importance, etc.)
 Due to barriers ranging from high costs to lack of coverage, remote physical location to insufficient healthcare infrastructure, medical access continues to be one of the greatest problems that continually affect millions of individuals across the world. Health tech represents one of the most innovative and impactful interdisciplinary applications of technology. Adapted from our previous vertical of Healthcare, Medical Access as a challenge embodies our hope to inspire focused project developing on broadening the gateway to a basic human right. 
 ## :star: Description :sunglasses:
-Insert longer paragraph (6-8 sentences) about what we're looking for, linking companies that done well. Check out "Description" section in previous vertical guides.
 We're looking for creative, innovative ways to improve access of any form to the medical care of both physical and/or mental health across individuals and communities. Perhaps you will focus on developing solutions using drone technology to deliver medical supplies to remote locations in the world like [Zipline](https://flyzipline.com/). Maybe you will examine ways to inspire greater ownership and leverage of information regarding your medical history, like [Embleema](https://www.embleema.com/), which created a blockchain network for patients to access and share their medical records. You might think about how to expedite the process of registering at a new hospital, like [One Medical](https://www.onemedical.com/about-us/), a company that unified hospitals across the country under one platform.  You may even hope to reinvent healthcare coverage plans to better serve underprivileged communities and those without health insurance, or redesign common laboratory tests and diagnostics procedures to take place from the comfort of one's home. Regardless, we know that you will develop solutions to critical challenges in medical access and beyond to make future generations healthier and happier.
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 <!--- Order by time --->
@@ -32,7 +30,6 @@ Insert bulleted list of challenges and corresponding prizes.
   * Prize: coming soon!
 ## :computer: Resources :books:
 #### Topics:
-* list your ideas (try to be super open-ended and think of ones that hackers might not immediately think of), refer to past vertical guides for reference
 * Bridging the location gap 
   * How can we deliver medical care to remote areas or third world countries without stable existing healthcare infrastructure?
 * Financial Cost
@@ -46,7 +43,6 @@ Insert bulleted list of challenges and corresponding prizes.
 * Information Ownership
   * How can we improve access and control of our medical history information records?
 #### Datasets + Technologies:
-* list datasets with hyperlinks (public and sponsor datasets alike)
 * Stanford [Tensorflow tutorial](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - should you decide to work on data-intensive projects
 * [World Health Organization](https://www.who.int/healthinfo/universal_health_coverage/en/): This includes specific information about health coverage across international countries. 
 * [National Emergency Medical Services Information System](https://nemsis.org/): The National Emergency Medical Services Information System (NEMSIS) is the national database storing EMS data from the U.S. States and Territories.
