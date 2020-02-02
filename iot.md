@@ -1,4 +1,4 @@
-# __:palm_tree: TreeHacks :sunny: 2020: _ IoT Challenge _ :mega:__
+# __:palm_tree: TreeHacks :sunny: 2020: IoT Challenge:mega:__
 <!---
 To insert emojis in md file: https://gist.github.com/rxaviers/7360908
 To get help with markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
