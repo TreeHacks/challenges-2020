@@ -24,7 +24,6 @@ We're looking for creative, innovative ways to improve access of any form to the
 3. __"Zipline Talk"__ by [Zipline](https://flyzipline.com/)
   * Saturday 2/15, 5pm - 5:30pm, Huang 305
 ## :sparkles: Challenges + Prizes :money_with_wings:
-Insert bulleted list of challenges and corresponding prizes.
 * __Medical Access Grand Prize__
   * Sponsor: TreeHacks
   * Prize: coming soon!
