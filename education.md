@@ -1,6 +1,6 @@
 # __:palm_tree: TreeHacks :sunny: 2020  Challenge: Education:mega:__
 
-## :muscle: Inspiration :collision:
+## :muscle: Inspiration :boom:
 
 Education technology (EdTech) is one of the most important ways of improving society. There are currently over 50 million students in elementary and secondary schools in the United States. EdTech has democratized the entire process of receiving a formal education, serving a larger and more diverse population. As the digital revolution begins to affect younger and younger students, education must adapt to students' varying learning styles. Structured lifelong learning is becoming much more common with the rise in online education platforms such as Coursera and Udemy. There are still many other areas within education that are ripe for innovation and huge growth in the coming year. 
 
