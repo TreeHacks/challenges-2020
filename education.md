@@ -1,4 +1,4 @@
-# __:palm_tree: TreeHacks :sunny: 2020  Challenge: Education:mega:)__
+# __:palm_tree: TreeHacks :sunny: 2020  Challenge: Education:mega:__
 
 ## :muscle: Inspiration :collision:
 
