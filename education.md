@@ -18,9 +18,6 @@ Education technology (EdTech) is one of the most important ways of improving soc
 
 ## :computer: Resources :books:
 
-**Datasets:**
-* Duolingo datasets
-
 ### Topics:
 
 * **Immersive tech** 
@@ -38,7 +35,7 @@ Online courses have been an integral aspect in democratizing education and will 
 
 ### Datasets:
 
-* Duolingo datasets
+* Duolingo datasets [1](http://sharedtask.duolingo.com/#data) and [2](https://sharedtask.duolingo.com/2018.html)
 
 ## :clock1: Past Projects :bangbang:
 
