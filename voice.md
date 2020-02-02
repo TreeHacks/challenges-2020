@@ -25,11 +25,11 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 
 <!--- Order by time --->
-1. __"Using Technology for ..."__ by [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
+1. __"TBD"__ by [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
   * Saturday 2/15, 10am - 10:45am, Huang 305
 2. __Office Hours__ with Researchers from the [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
   * Saturday 2/15, time tbd.
-3. __"Using Technology for ..."__ by software developers from [Samsung Bixby](https://www.samsung.com/us/explore/bixby/) (still determining if feasible)
+3. __"TBD"__ by software developers from [Samsung Bixby](https://www.samsung.com/us/explore/bixby/) 
   * Saturday 2/15, time tbd.
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
