@@ -1,4 +1,4 @@
-# __:palm_tree: TreeHacks :sunny: 2020: AR/VR :eyes:__
+# __:palm_tree: TreeHacks :sunny: 2020: Geospatial Challenge :earth_americas:__
 
 ## :muscle: Inspiration :boom:
 Every second, we collect terabytes of traffic, satellite, and location data from devices all across the world. As this treasure trove of data continues to grow, we believe that it has the ability to inform, educate, and assist the public to make everyday lives easier and safer. To this end, we're looking for hacks utilizing these rich datasets and APIs to better understand the world we live in.
