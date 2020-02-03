@@ -55,7 +55,6 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 * Healthcare + Medicine
 * Engineering
 * Education
-* Military + Defense
 
 #### Datasets + Technologies:
 * coming soon!
