@@ -26,7 +26,6 @@ We're looking for skilled hackers who love electrical engineering and want to ma
   * FujiFilm
 ## :computer: Resources :books:
 ### Topics:
-* list your ideas (try to be super open-ended and think of ones that hackers might not immediately think of), refer to past vertical guides for reference
 1. Space Exploration
 2. Home-Automation System -- Security & Privacy 
 3. Facial Recognition Door -- Security & Privacy 
