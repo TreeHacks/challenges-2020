@@ -49,7 +49,7 @@ We're looking for creative, innovative ways to improve access of any form to the
 * Medical imaging datasets from github username sfikas (https://github.com/sfikas/medical-imaging-datasets), beamandrew (https://github.com/beamandrew/medical-data), and visualdata (https://www.visualdata.io/) 
 * Healthcare (https://github.com/awesomedata/awesome-public-datasets#healthcare) datasets from Awesome Public Datasets (https://github.com/awesomedata/awesome-public-datasets) and datahub (https://datahub.io/collections)
 ## :clock1: Past Projects :bangbang:
-* 1. Norma (https://devpost.com/software/norma-bir2zg) (past TreeHacks project!), an interactive chat bot aimed at helping to detect breast cancer
+1. Norma (https://devpost.com/software/norma-bir2zg) (past TreeHacks project!), an interactive chat bot aimed at helping to detect breast cancer
 2. HomeCare (https://devpost.com/software/homecare-yfg3r4), an Alexa skill that monitors the dependent's sleep status from home.
 3. Perio-gone-tis (https://devpost.com/software/perio-gone-tis), a real time, low-cost detection of dental health machine learning based platform
 4. Docodial (https://devpost.com/software/docodial), an interface for non-native speakers of a language to get the health coverage they need using interpreters
