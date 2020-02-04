@@ -19,6 +19,8 @@ We're looking for skilled hackers who love electrical engineering and want to ma
 <!--- Order by time --->
 1. Hands-on Workshop by Stanford Applied Cybersecurity Club
   * 2/15, 2pm-2:30pm, Huang 305
+2. Learn about IoT at FujiFilm
+  * TBD
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * IoT Grand Prize
   * Sponsor: TreeHacks
