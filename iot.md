@@ -36,4 +36,9 @@ We're looking for skilled hackers who love electrical engineering and want to ma
 8. IoT Weather Station
 
 ## :clock1: Past Projects :bangbang:
-* coming soon
+* [GuardNet](https://devpost.com/software/netguard), a product that runs a daemon on an IoT device to monitor network traffic
+* [MOJO](https://devpost.com/software/mojo-9ctvuj), a solution for making bicyclists safer through a raspberry pi-based bike attachment
+* [CarbonCoin](https://devpost.com/software/carboncoin), a project that incorporates a real-time IoT system that calculates a user's carmon emission
+* [The Ultimate Water Heater](https://devpost.com/software/ultimate-water-heater), an energy-efficient, smart IoT heating technology that eliminates need for natural gasses
+* [Kinesis](https://devpost.com/software/kinesis), a virtual reality-based wearable glove that enhances motor rehabilitation for stroke patients
+* [Hot Dog](https://devpost.com/software/hot-dog), an IoT application that helps save pets' lives from overheated cars
