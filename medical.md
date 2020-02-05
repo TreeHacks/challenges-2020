@@ -19,8 +19,10 @@ We're looking for creative, innovative ways to improve access of any form to the
 <!--- Order by time --->
 1. __"Genentech Talk"__ by [Genentech](https://www.gene.com/)
   * Saturday 2/15, 9:50pm - 10:30pm.
-2. __"Google AI Research"__ with Researchers from the [Google AI Research](https://ai.google/research/)
-  * Saturday 2/15, 1pm - 1:30pm.
+2. __"Deep Learning for Medical Imaging"__ with Jonathan from [Google AI Research](https://ai.google/research/)
+  * Saturday 2/15, 1pm - 1:30pm
+  * Jonathan Krause is an engineer at Google working on applying machine learning to tasks in medical imaging, with speciality in Ophthalmology. Before that, he did his Ph.D. at Stanford, focusing on applying computer vision to tasks requiring high degrees of human expertise.
+
 3. __"Zipline Talk"__ by [Zipline](https://flyzipline.com/)
   * Saturday 2/15, 5pm - 5:30pm, Huang 305
 ## :sparkles: Challenges + Prizes :money_with_wings:
