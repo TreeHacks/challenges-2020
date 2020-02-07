@@ -23,8 +23,8 @@ We're looking for creative, innovative ways to improve access of any form to the
   * Saturday 2/15, 1pm - 1:30pm
     * Jonathan Krause is an engineer at Google working on applying machine learning to tasks in medical imaging, with speciality in Ophthalmology. Before that, he did his Ph.D. at Stanford, focusing on applying computer vision to tasks requiring high degrees of human expertise.
 
-3. __"Zipline Talk"__ by [Zipline](https://flyzipline.com/)
-  * Saturday 2/15, 5pm - 5:30pm, Huang 305
+3. __Tech Talk with Zipline's CEO, Keller Rinaudo__ by [Zipline](https://flyzipline.com/)
+  * Saturday 2/15, 5pm - 5:30pm, Huang 018
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * __Medical Access Grand Prize__
   * Sponsor: TreeHacks
