@@ -20,7 +20,7 @@ AR/VR is a fascinating problem space in that it's probably one of the most divis
 
 ## :star: Description :sunglasses:
 
-We're looking for creative, innovative ways to apply AR/VR technology to improve users better perceiving the environment around us, or a completely new environment altogether. Perhaps you'll explore built-in AR/VR mobile packages like [ARKit](https://developer.apple.com/documentation/arkit) by Apple or [ARCore](https://developers.google.com/ar) by Google. Alternatively, perhaps you'll take a deep dive into using [Unity](https://unity.com/) to build more immersive applications or [Vuforia](https://developer.vuforia.com/), a major AR development platform. Either way, we hope that you'll push the boundaries of what has been done with AR/VR technology. VR Enthusiasts envision a virtual world indistinguishable from our own, with haptic devices to take interaction to the next level and AR enthusiasts have their eyes set on the AR Cloud - a real-time 3D (or spatial) map of the world, overlayed onto the real world.
+We're looking for creative, innovative ways to apply AR/VR technology to improve users better perceiving the environment around us, or a completely new environment altogether. Perhaps you'll explore built-in AR/VR mobile packages like [ARKit](https://developer.apple.com/documentation/arkit) by Apple or [ARCore](https://developers.google.com/ar) by Google. Alternatively, perhaps you'll take a deep dive into using [Unity](https://unity.com/) to build more immersive applications or [Vuforia](https://developer.vuforia.com/), a major AR development platform. AR/VR has unparalleled opportunities in understanding - check out how the Wall Street Journal created a VR guided tour experience of the Nasdaq called "Is the Nasdaq in Another Bubble?" In a similar vein, AR/VR applications for experience could be incredibly useful for efficiency, equitability, and improved performance - that's exactly the goal of [STRIVR Labs](https://www.strivr.com/), developing the next generation of immersive training. Lastly, the holy grail of AR is persistence, which is being able to place an object in the world for anyone else to see, creating a whole new universe right in front of our eyes. [6D AI](https://www.6d.ai/) is a company leading in the space with the vision to build an integratable 3d map of the world. VR enthusiasts envision a virtual world indistinguishable from our own, with haptic devices to take interaction to the next level and AR enthusiasts have their eyes set on the AR Cloud - a real-time 3D (or spatial) map of the world, overlayed onto the real world.
 
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 
@@ -52,12 +52,12 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 * Storytelling
 * Media/Entertainment
   * ie: recreating parts of the Louvre to exhibit in art schools where access isn't possible
-* Training/Recruiting (check out [STRIVR Labs](https://www.strivr.com/) developing the next generation of immersive training)
+* Training/Recruiting
 * Healthcare + Medicine
 * Engineering
 * Education
   * ie: ARnatomy (teaching medical students anatomical and surgical skills without cadavers)
-* Persistence (the holy grail for AR, which is being able to place an object in the world for anyone else to see, check out [6D AI](https://www.6d.ai/), the company that's in the space)
+* Persistence
 
 #### Datasets + Technologies:
 * [Teleportal Dev](https://teleportal.dev/): A suite of tools and services that makes it easier to create mixed reality software
