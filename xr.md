@@ -63,7 +63,7 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 * Persistence
 
 #### Datasets + Technologies:
-* [Teleportal Dev](https://teleportal.dev/): A suite of tools and services that makes it easier to create mixed reality software
+* [Teleportal Dev](https://teleportal.dev/): A suite of tools and services that makes it easier to create mixed reality software, developer discord available [here](https://teleportal.dev/discord/)
 
 ## :clock1: Past Projects :bangbang:
 
