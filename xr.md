@@ -37,6 +37,9 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 * __AR/VR Grand Prize__
   * Sponsor: TreeHacks
   * Prize: coming soon
+* __Facebook's Prize__
+  * Sponsor: Facebook
+  * Prize: TBA
 
 ## :computer: Resources :books:
 
