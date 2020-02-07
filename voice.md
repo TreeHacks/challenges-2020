@@ -25,11 +25,11 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 
 <!--- Order by time --->
-1. __"TBD"__ by [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
+1. __TBD__ by [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
   * Saturday 2/15, 10am - 10:45am, Huang 305
 2. __Office Hours__ with Researchers from the [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
   * Saturday 2/15, time tbd.
-3. __"TBD"__ by software developers from [Samsung Bixby](https://www.samsung.com/us/explore/bixby/) 
+3. __TBD__ by software developers from [Samsung Bixby](https://www.samsung.com/us/explore/bixby/) 
   * Saturday 2/15, time tbd.
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
@@ -40,15 +40,15 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 * __VoiceFlow's Most User-Friendly Voice Assistance Hack__
   * Sponsor: [VoiceFlow](https://www.voiceflow.com/)
   * Prize: Amazon Echo (3rd Gen)
-* __Samsung's Prize__
+* __Samsung's Best Use of Bixby__
   * Sponsor: [Samsung Bixby](https://www.samsung.com/us/explore/bixby/)
-  * Prize: coming soon
-* __Stanford's Open Virtual Assistant Lab (OVAL) Prize__
+  * Prize: 1st place - TBA, 2nd place - TBA
+* __OVAL's Best Use of Almond__
   * Sponsor: [Stanford's Open Virtual Assistant Lab (OVAL)](https://oval.cs.stanford.edu/)
-  * Prize: coming soon
+  * Prize: $500 Amazon gift card for winning team
 * __SoundHound's Best Use of SoundHound API__
   * Sponsor: [SoundHound](https://www.soundhound.com/)
-  * Prize: 3 prizes: $1,000, $500 and $250 for each team
+  * Prize: 3 prizes: $1,000, $500 and $250 for first, second, and third place teams
   * For more info, technical help, etc. find SoundHound's booth + chat with their mentors!
 
 
