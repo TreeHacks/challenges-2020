@@ -18,13 +18,13 @@ We're looking for creative, innovative ways to improve access of any form to the
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 <!--- Order by time --->
 1. __"Deep Learning for Medical Imaging"__ with Jonathan from [Google AI Research](https://ai.google/research/)
-  * Saturday 2/15, 1pm - 1:30pm
+    * Saturday 2/15, 1pm - 1:30pm
     * Jonathan Krause is an engineer at Google working on applying machine learning to tasks in medical imaging, with speciality in Ophthalmology. Before that, he did his Ph.D. at Stanford, focusing on applying computer vision to tasks requiring high degrees of human expertise.
 2.  __"Building Wakanda: Saving lives with autonomous aircraft"__ with Keller Rinaudo, CEO of [Zipline](https://flyzipline.com/), one of the newest unicorn companies
-  * Saturday 2/15, 5pm - 5:30pm
+    * Saturday 2/15, 5pm - 5:30pm
     * Keller Rinaudo is a robotics and healthcare innovator who is showing the world how drone technology can be used to save lives. He is the CEO and Co-Founder of Zipline, which delivers life-saving medical supplies to hospitals and health centers on demand via autonomous drones built at the company’s Silicon Valley headquarters. Zipline was named one of the “50 Most Disruptive Companies in the U.S.” in 2019 by CNBC, called a “visionary project” by the World Health Organization, and dubbed “the new face of the aerospace industry” by The New York Times. Rinaudo launched Zipline in 2011 after traveling the world as a professional rock climber and seeing the challenges to healthcare access that billions of people in remote areas globally face.”
 3. __"Genentech Talk"__ by [Genentech](https://www.gene.com/)
-  * Saturday 2/15, 9:50pm - 10:30pm.
+    * Saturday 2/15, 9:50pm - 10:30pm.
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * __Medical Access Grand Prize__
