@@ -17,18 +17,23 @@ Due to barriers ranging from high costs to lack of coverage, remote physical loc
 We're looking for creative, innovative ways to improve access of any form to the medical care of both physical and/or mental health across individuals and communities. Perhaps you will focus on developing solutions using drone technology to deliver medical supplies to remote locations in the world like [Zipline](https://flyzipline.com/). Maybe you will examine ways to inspire greater ownership and leverage of information regarding your medical history, like [Embleema](https://www.embleema.com/), which created a blockchain network for patients to access and share their medical records. You might think about how to expedite the process of registering at a new hospital, like [One Medical](https://www.onemedical.com/about-us/), a company that unified hospitals across the country under one platform.  You may even hope to reinvent healthcare coverage plans to better serve underprivileged communities and those without health insurance, or redesign common laboratory tests and diagnostics procedures to take place from the comfort of one's home. Regardless, we know that you will develop solutions to critical challenges in medical access and beyond to make future generations healthier and happier.
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 <!--- Order by time --->
+1. __Health Innovation at FujiFilm__ with FujiFilm
+    * Saturday 2/15, 1am - 1:20am, Huang 018
 1. __Deep Learning for Medical Imaging__ with Jonathan from [Google AI Research](https://ai.google/research/)
-    * Saturday 2/15, 1pm - 1:30pm
+    * Saturday 2/15, 1pm - 1:30pm, Huang 018
     * Jonathan Krause is an engineer at Google working on applying machine learning to tasks in medical imaging, with speciality in Ophthalmology. Before that, he did his Ph.D. at Stanford, focusing on applying computer vision to tasks requiring high degrees of human expertise.
 2.  __Building Wakanda: Saving lives with autonomous aircraft__ with Keller Rinaudo, CEO of [Zipline](https://flyzipline.com/), one of the newest unicorn companies
-    * Saturday 2/15, 5pm - 5:30pm
+    * Saturday 2/15, 5pm - 5:30pm, Huang 018
     * Keller Rinaudo is a robotics and healthcare innovator who is showing the world how drone technology can be used to save lives. He is the CEO and Co-Founder of Zipline, which delivers life-saving medical supplies to hospitals and health centers on demand via autonomous drones built at the company’s Silicon Valley headquarters. Zipline was named one of the “50 Most Disruptive Companies in the U.S.” in 2019 by CNBC, called a “visionary project” by the World Health Organization, and dubbed “the new face of the aerospace industry” by The New York Times. Rinaudo launched Zipline in 2011 after traveling the world as a professional rock climber and seeing the challenges to healthcare access that billions of people in remote areas globally face.”
 3. __Genentech Talk__ by [Genentech](https://www.gene.com/)
-    * Saturday 2/15, 9:50pm - 10:30pm.
+    * Saturday 2/15, 9:50pm - 10:30pm, location TBA
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * __Medical Access Grand Prize__
   * Sponsor: TreeHacks
+  * Prize: coming soon!
+* __FujiFilm's Medical Innovation Prize__
+  * Sponsor: FujiFilm
   * Prize: coming soon!
 ## :computer: Resources :books:
 #### Topics:
