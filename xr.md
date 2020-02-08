@@ -28,7 +28,7 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 1. __TBA__ by Snapchat
   * Saturday 2/15, 12am - 12:40 am, Huang 305.
 2. __Creating Digital Holograms with Hedron Vision__ by Sam Redmond, Founder of [Hedron Vision](https://oval.cs.stanford.edu/) & founder of TreeHacks :palm_tree:
-  * Saturday 2/15, 8am - 8:30am, Huang 018
+  * Saturday 2/15, 1:30am - 2am, Huang 018
 3. __Intro to Unity__ with the [Stanford XR Club](https://www.stanfordxr.org/)
   * Saturday 2/15, 11am - 11:30am, Huang 305.
 
