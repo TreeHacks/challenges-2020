@@ -13,7 +13,7 @@ Education technology (EdTech) is one of the most important ways of improving soc
 1. **The Internet for Education: How Duolingo Teaches Millions Every Day** with Nathan from Duolingo
   * Saturday — 10:00 am - 10:30 am, Huang 018
   * Nathan Dalal works to make high quality education more accessible for millions of people. At Duolingo, Nathan works to improve learning on the Grammar team. He focuses on a new personalized learning initiative called Smart Tips, which categorizes mistakes that users make across all language tracks on Duolingo, and provides learners at all levels with just-in-time feedback to accelerate their learning. At Stanford (BS/MS CS '19), Nathan conducted computing and education research and was a member of the CS198 section leading community. He  is excited to show hackers how to get involved in revolutionizing education today.
-2. **Duolingo EdTech Office Hours + Q&A**
+2. **EdTech Office Hours + Q&A with Nathan from Duolingo**
   * Saurday 10:30 am - 11:30 am, Huang 018
 
 
