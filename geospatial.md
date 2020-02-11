@@ -28,10 +28,22 @@ We’re looking for creative and novel ways to use geospatial data and resources
 ## :computer: Resources :books:
 
 #### Topics:
-* coming soon
+* Safety and Public Health
+ * As the world modernizes, we have access to rich datasets related to safety and public health. We believe using geographic information to best inform decisions for key stakeholders, including the public, government, health organizations, and more, can change how we tackle these pressing problems.
+* Climate Change and Natural Disasters
+ * As climate change continues to threaten society, we believe pressing issues ranging from the preservation of marshes to tracking dangerous events like wildfire spread can be tackled with geospatial information. We believe location data can be used to quantify or demonstrate the effects of large-scale natural phenomena or better inform the public about their effects.
+* Travel and Transportation
+ * With congestion and traffic on the rise, geographic data may be able to assist travelers and commuters in minimizing disturbances till they reach their destination. Are there new data streams we can use to augment travel or do it more sustainably?
+* Thinking of another use case not listed here? Awesome, feel free to go for it! Chat with voice assistance-specific mentors if you have any questions!
 
 #### Datasets + Technologies:
-* coming soon
+* [MapmyIndia’s API](https://www.mapmyindia.com/api/): A vast array of APIs for map information outside the US. A great way to target emerging markets where many products are still developing.
+* [Google Earth APIs](https://github.com/google/earthengine-api): Leverage Google’s massive map and earth infrastructure to extract all kinds of insights.
+* [Google Earth Datasets](https://developers.google.com/earth-engine/datasets): A catalog of over 600 datasets with 29 petabytes of data all updated daily. 
+* [CARTO’s API](https://carto.com/): Licenses and information will be released soon!
+* [Planet’s APIs](https://www.planet.com/): Licenses and information will be released soon!
+* [Esri APIs](https://developers.arcgis.com/): Rich 2D and 3D map data from a wide array of sensors. 
+* [MapBox APIs](https://docs.mapbox.com/help/how-mapbox-works/) A wide range of map related APIs. Check out [vision](https://www.mapbox.com/vision/) (https://www.mapbox.com/vision/), [navigation](https://www.mapbox.com/navigation/), [maps](https://www.mapbox.com/maps/), [search](https://www.mapbox.com/search/), [mapbox-studio](https://www.mapbox.com/mapbox-studio/)
 
 ## :clock1: Past Projects :bangbang:
 * [Danger Zone](https://devpost.com/software/wheresthatcrime): Using geospatial data and crime information to help check the safety of neighborhoods
@@ -39,5 +51,5 @@ We’re looking for creative and novel ways to use geospatial data and resources
 * [Flare](https://devpost.com/software/flare-8rn1ej): Identifying crime on student campuses to help avoid dangerous areas
 
 #### Mentors:
-* MapmyIndia (_technical_) - reachable at their booth + Slack
-* Google Earth (_technical_) - reachable at Google Cloud booth
+* MapmyIndia (_technical_) - reachable over Slack
+* Google Earth (_technical_) - reachable at Google Cloud booth and over Slack
