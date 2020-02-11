@@ -9,10 +9,12 @@ We’re looking for creative and novel ways to use geospatial data and resources
 
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 <!--- Order by time --->
-1. __Tech Talk__ by [Google Earth](https://www.google.com/earth/)
+1. __Three Powerful Google Cloud Products for Your Project__ by [Google Earth](https://www.google.com/earth/)
  * Saturday 2/15, 12am - 12:20am, Huang 018
-2. __Tech Talk__ by [MapmyIndia](https://www.mapmyindia.com/)
+ * Chat about Google Cloud computing and Google Cloud Platform. This talk highlights App Engine, Machine Learning APIs, and Cloud Firestore. For each product, there are interactive demos and example use cases.
+2. __MapmyIndia Location APIs & Map SDKs__ by [MapmyIndia](https://www.mapmyindia.com/)
  * Saturday 2/15, 1:40am - 2:00am, Huang 305
+ * Our Map APIs make the user experience much more meaningful. With the most up-to-date location data and all India map coverage, we provide easy-to-use location and mapping functionalities that make it possible for users to develop and create a high-performance, interactive mapping experience for indoor and outdoor environments.
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * __Geospatial Grand Prize__
