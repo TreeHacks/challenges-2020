@@ -16,14 +16,14 @@ We’re looking for creative and novel ways to use geospatial data and resources
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * __Geospatial Grand Prize__
- * Sponsor: TreeHacks
- * Prize: coming soon
+  * Sponsor: TreeHacks
+  * Prize: coming soon
 * __MapmyIndia Prize__
- * Sponsor: [MapmyIndia](https://www.mapmyindia.com/)
- * Prize: coming soon
+  * Sponsor: [MapmyIndia](https://www.mapmyindia.com/)
+  * Prize: coming soon
 * __Google Earth__
- * Sponsor: [Google Earth](https://www.google.com/earth/)
- * Prize: coming soon
+  * Sponsor: [Google Earth](https://www.google.com/earth/)
+  * Prize: coming soon
 
 ## :computer: Resources :books:
 
