@@ -17,7 +17,7 @@ We’re looking for creative and novel ways to use geospatial data and resources
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * __Geospatial Grand Prize__
   * Sponsor: TreeHacks
-  * Prize: coming soon
+  * Prize: [$400 Southwest Airlines Gift Card](https://www.southwest.com/html/generated/help/faqs/southwestgiftcard_faq.html) distributed across team members
 * __MapmyIndia Prize__
   * Sponsor: [MapmyIndia](https://www.mapmyindia.com/)
   * Prize: coming soon
