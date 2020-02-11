@@ -16,6 +16,11 @@ Education technology (EdTech) is one of the most important ways of improving soc
 2. **EdTech Office Hours + Q&A with Nathan from Duolingo**
   * Saurday 10:30 am - 11:30 am, Huang 018
 
+## :sparkles: Challenges + Prizes :money_with_wings:
+
+ **- Education Grand prize**
+	 - Sponsor: TreeHacks
+	 - Prize: Auking Mini Projector for each team member
 
 ## :computer: Resources :books:
 
@@ -31,7 +36,7 @@ While this topic does include tools to teach children to code, there are many ot
 Learning management systems are the center of many students' experiences in traditional schools and continue to help studnets manage their coursework online. 
 * **Language learning**
 With a numerous approaches to learning new languages, there many opportunities to continue improving the process of becoming polyglots.
-* Online courses
+* **Online courses**
 Online courses have been an integral aspect in democratizing education and will continue to grow as internet access increases.
 
 ### Datasets:
