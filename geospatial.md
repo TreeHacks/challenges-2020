@@ -29,11 +29,11 @@ We’re looking for creative and novel ways to use geospatial data and resources
 
 #### Topics:
 * Safety and Public Health
- * As the world modernizes, we have access to rich datasets related to safety and public health. We believe using geographic information to best inform decisions for key stakeholders, including the public, government, health organizations, and more, can change how we tackle these pressing problems.
+  * As the world modernizes, we have access to rich datasets related to safety and public health. We believe using geographic information to best inform decisions for key stakeholders, including the public, government, health organizations, and more, can change how we tackle these pressing problems.
 * Climate Change and Natural Disasters
- * As climate change continues to threaten society, we believe pressing issues ranging from the preservation of marshes to tracking dangerous events like wildfire spread can be tackled with geospatial information. We believe location data can be used to quantify or demonstrate the effects of large-scale natural phenomena or better inform the public about their effects.
+  * As climate change continues to threaten society, we believe pressing issues ranging from the preservation of marshes to tracking dangerous events like wildfire spread can be tackled with geospatial information. We believe location data can be used to quantify or demonstrate the effects of large-scale natural phenomena or better inform the public about their effects.
 * Travel and Transportation
- * With congestion and traffic on the rise, geographic data may be able to assist travelers and commuters in minimizing disturbances till they reach their destination. Are there new data streams we can use to augment travel or do it more sustainably?
+  * With congestion and traffic on the rise, geographic data may be able to assist travelers and commuters in minimizing disturbances till they reach their destination. Are there new data streams we can use to augment travel or do it more sustainably?
 * Thinking of another use case not listed here? Awesome, feel free to go for it! Chat with voice assistance-specific mentors if you have any questions!
 
 #### Datasets + Technologies:
