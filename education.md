@@ -18,9 +18,9 @@ Education technology (EdTech) is one of the most important ways of improving soc
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
 
- **- Education Grand prize**
-	 - Sponsor: TreeHacks
-	 - Prize: Auking Mini Projector for each team member
+* __Education Grand Prize__
+  * Sponsor: TreeHacks
+  * Prize: Auking Mini Projector for each team member
 
 ## :computer: Resources :books:
 
