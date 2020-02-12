@@ -42,17 +42,20 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 * __VoiceFlow's Most User-Friendly Voice Assistance Hack__
   * Sponsor: [VoiceFlow](https://www.voiceflow.com/)
   * Prize: Amazon Echo (3rd Gen)
+<!---
 * __Samsung's Best Use of Bixby__
   * Sponsor: [Samsung Bixby](https://www.samsung.com/us/explore/bixby/)
   * Prize: 1st place - TBA, 2nd place - TBA
+--->
 * __OVAL's Best Use of Almond__
   * Sponsor: [Stanford's Open Virtual Assistant Lab (OVAL)](https://oval.cs.stanford.edu/)
   * Prize: $500 Amazon gift card for winning team
+<!---
 * __SoundHound's Best Use of SoundHound API__
   * Sponsor: [SoundHound](https://www.soundhound.com/)
   * Prize: 3 prizes: $1,000, $500 and $250 for first, second, and third place teams
   * For more info, technical help, etc. find SoundHound's booth + chat with their mentors!
-
+--->
 
 ## :computer: Resources :books:
 
