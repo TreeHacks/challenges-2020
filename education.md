@@ -1,4 +1,4 @@
-# __:palm_tree: TreeHacks :sunny: 2020  Challenge: Education:mega:__
+# __:palm_tree: TreeHacks :sunny: 2020  Challenge: Education :mega:__
 
 ## :muscle: Inspiration :boom:
 
@@ -11,10 +11,10 @@ Education technology (EdTech) is one of the most important ways of improving soc
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 
 1. **The Internet for Education: How Duolingo Teaches Millions Every Day** with Nathan from Duolingo
-  * Saturday — 10:00 am - 10:30 am, Huang 018
-  * Nathan Dalal works to make high quality education more accessible for millions of people. At Duolingo, Nathan works to improve learning on the Grammar team. He focuses on a new personalized learning initiative called Smart Tips, which categorizes mistakes that users make across all language tracks on Duolingo, and provides learners at all levels with just-in-time feedback to accelerate their learning. At Stanford (BS/MS CS '19), Nathan conducted computing and education research and was a member of the CS198 section leading community. He  is excited to show hackers how to get involved in revolutionizing education today.
+    * Saturday — 10:00 am - 10:30 am, Huang 018
+    * Nathan Dalal works to make high quality education more accessible for millions of people. At Duolingo, Nathan works to improve learning on the Grammar team. He focuses on a new personalized learning initiative called Smart Tips, which categorizes mistakes that users make across all language tracks on Duolingo, and provides learners at all levels with just-in-time feedback to accelerate their learning. At Stanford (BS/MS CS '19), Nathan conducted computing and education research and was a member of the CS198 section leading community. He  is excited to show hackers how to get involved in revolutionizing education today.
 2. **EdTech Office Hours + Q&A with Nathan from Duolingo**
-  * Saurday 10:30 am - 11:30 am, Huang 018
+    * Saurday 10:30 am - 11:30 am, Huang 018
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
 
@@ -41,7 +41,7 @@ Online courses have been an integral aspect in democratizing education and will 
 
 ### Datasets:
 
-* Duolingo datasets [1](http://sharedtask.duolingo.com/#data) and [2](https://sharedtask.duolingo.com/2018.html)
+* Duolingo datasets: [English prompts + translations](http://sharedtask.duolingo.com/#data) and [dependency parsing set](https://sharedtask.duolingo.com/2018.html)
 
 ## :clock1: Past Projects :bangbang:
 
