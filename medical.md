@@ -31,10 +31,10 @@ We're looking for creative, innovative ways to improve access of any form to the
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * __Medical Access Grand Prize__
   * Sponsor: TreeHacks
-  * Prize: coming soon!
+  * Prize: Allbirds Tree Runners for each team member
 * __FujiFilm's Medical Innovation Prize__
   * Sponsor: FujiFilm
-  * Prize: coming soon!
+  * Prize: Instax camera + films
 ## :computer: Resources :books:
 #### Topics:
 * Bridging the location gap 
