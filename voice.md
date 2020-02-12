@@ -50,6 +50,7 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 * __OVAL's Best Use of Almond__
   * Sponsor: [Stanford's Open Virtual Assistant Lab (OVAL)](https://oval.cs.stanford.edu/)
   * Prize: $500 Amazon gift card for winning team
+  * TreeHacks webpage with topic ideas, tutorials, etc. [here](https://www.notion.so/Almond-TreeHacks-2020-8c2e4a2e32a945ce87743920def11a90)
 <!---
 * __SoundHound's Best Use of SoundHound API__
   * Sponsor: [SoundHound](https://www.soundhound.com/)
@@ -60,9 +61,9 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 ## :computer: Resources :books:
 
 #### Mentors:
-* SoundHound (_technical_) - reachable at their booth + Slack
+<!--- * SoundHound (_technical_) - reachable at their booth + Slack --->
 * Stanford OVAL (_technical_) - reachable through Office Hours event + Slack
-* Samsung (_technical_) - reachable through Slack
+<!--- * Samsung (_technical_) - reachable through Slack --->
 
 #### Topics:
 * Accessibility
@@ -74,7 +75,7 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 * Thinking of another use case not listed here? Awesome, feel free to go for it! Chat with voice assistance-specific mentors if you have any questions!
 
 #### Datasets + Technologies:
-* [SoundHound's Houndify](https://www.soundhound.com/houndify): SoundHouse's Houndify is a speech-to-meaning engine that integrates voice and conversational intelligence into any product.
+<!---* [SoundHound's Houndify](https://www.soundhound.com/houndify): SoundHouse's Houndify is a speech-to-meaning engine that integrates voice and conversational intelligence into any product. --->
 * [VoiceFlow Business](https://www.voiceflow.com/hackathon/treehacks): VoiceFlow, an online platform that allows anyone to visually design, prototype, and publish Alexa skills and Google Actions, is offering TreeHacks participants a free year of VoiceFlow business. Click on [this link](https://www.voiceflow.com/hackathon/treehacks) to claim.
 * [Almond](https://almond.stanford.edu/): Almond is an open, privacy-preserving voice assistant developed by [Stanford's Open Virtual Assistant Lab (OVAL)](https://oval.cs.stanford.edu/). You can build personalized programs with Almond through its capabilities defined in [Thingpedia](https://almond.stanford.edu/thingpedia), a crowd-sourced repository of commands and interfaces to online services and IoT.
   * OVAL is hosting a workshop Saturday morning and office hours Saturday afternoon. Swing by to get technical help with using OVAL! (check out the Events section of this guide for more details)
