@@ -18,10 +18,11 @@ We're looking for skilled hackers who love electrical engineering and want to ma
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 <!--- Order by time --->
 1. Hands-on Workshop by Stanford Applied Cybersecurity Club
-  * 2/15, 2pm-2:30pm, Huang 305
+    * 2/15, 2pm-2:30pm, Huang 305
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * IoT Grand Prize
-  * Sponsor: TreeHacks
+    * Sponsor: TreeHacks
+    * Prize: Philips Hue Wireless Starter Kit + Amazon Alexa Dot for each team member
 ## :computer: Resources :books:
 ### Topics:
 1. Space Exploration
