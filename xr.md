@@ -36,10 +36,10 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 
 * __AR/VR Grand Prize__
   * Sponsor: TreeHacks
-  * Prize: coming soon
-* __Facebook's Prize__
-  * Sponsor: Facebook
-  * Prize: TBA
+  * Prize: Facebook Portal for each member
+* __Best AR/VR Hack that Uses Teleportal Platform__
+  * Sponsor: [Teleportal](https://teleportal.dev/docs/)
+  * Prize: Raspberry Pis 4th Gen + Access to Teleportal Platform
 
 ## :computer: Resources :books:
 
