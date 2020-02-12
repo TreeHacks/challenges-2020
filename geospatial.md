@@ -23,9 +23,6 @@ We’re looking for creative and novel ways to use geospatial data and resources
 * __MapmyIndia Prize__
   * Sponsor: [MapmyIndia](https://www.mapmyindia.com/)
   * Prize: coming soon
-* __Google Earth__
-  * Sponsor: [Google Earth](https://www.google.com/earth/)
-  * Prize: coming soon
 
 ## :computer: Resources :books:
 
