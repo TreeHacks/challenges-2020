@@ -25,21 +25,19 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 
 <!--- Order by time --->
-1. __TBA__ by Snapchat
-  * Saturday 2/15, 12am - 12:40 am, Huang 305.
 2. __Creating Digital Holograms with Hedron Vision__ by Sam Redmond, Founder of [Hedron Vision](https://oval.cs.stanford.edu/) & founder of TreeHacks :palm_tree:
-  * Saturday 2/15, 1:30am - 2am, Huang 018
+    * Saturday 2/15, 1:30am - 2am, Huang 018
 3. __Building Blocks of Unity: Learn Basics for Any AR/VR Project__ with Arjun and Joseph from [Stanford XR Club](https://www.stanfordxr.org/)
-  * Saturday 2/15, 11am - 11:30am, Huang 305.
+    * Saturday 2/15, 11am - 11:30am, Huang 305.
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
 
 * __AR/VR Grand Prize__
-  * Sponsor: TreeHacks
-  * Prize: Facebook Portal for each member
+    * Sponsor: TreeHacks
+    * Prize: Facebook Portal for each member
 * __Best AR/VR Hack that Uses Teleportal Platform__
-  * Sponsor: [Teleportal](https://teleportal.dev/docs/)
-  * Prize: Raspberry Pis 4th Gen + Access to Teleportal Platform
+    * Sponsor: [Teleportal](https://teleportal.dev/docs/)
+    * Prize: Raspberry Pis 4th Gen + Access to Teleportal Platform
 
 ## :computer: Resources :books:
 
