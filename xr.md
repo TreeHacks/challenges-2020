@@ -47,7 +47,8 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 ## :computer: Resources :books:
 
 #### Mentors:
-* Snapchat (_technical_) - reachable at their booth + Slack
+* Magic Leap (_technical_) - reachable through their office hours (refer to Events section), via Slack, and throughout the event in-person
+<!--- * Snapchat (_technical_) - reachable at their booth + Slack --->
 * Stanford XR (_technical_) - reachable through workshop + Slack
 
 #### Topics:
