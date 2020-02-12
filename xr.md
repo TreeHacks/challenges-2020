@@ -27,8 +27,11 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 <!--- Order by time --->
 1. __Developing AR/VR Office Hours__ with developers from [Magic Leap](https://www.magicleap.com/)
     * Friday 2/14, 10pm - 11pm, in AR/VR Lab by Huang 218/219
+2. __Introducing StereoKit – Next-Gen MR Dev Tools__ with [Microsoft](https://www.microsoft.com/en-us/)
+    * Friday 2/14, 10:40pm - 11:20pm, in Huang 018
+    * StereoKit is an open source, cross-platform Mixed Reality library that makes MR development simple! Optimized for mobile MR hardware, and streamlined for non-game MR development, StereoKit provides important functionality that a game engine cannot.
 2. __Creating Digital Holograms with Hedron Vision__ by Sam Redmond, Founder of [Hedron Vision](https://oval.cs.stanford.edu/) & founder of TreeHacks :palm_tree:
-    * Saturday 2/15, 1:30am - 2am, Huang 018
+    * Saturday 2/15, 1:30am - 2am, Huang 305
 3. __Building Blocks of Unity: Learn Basics for Any AR/VR Project__ with Arjun and Joseph from [Stanford XR Club](https://www.stanfordxr.org/)
     * Saturday 2/15, 11am - 11:30am, Huang 305.
 
