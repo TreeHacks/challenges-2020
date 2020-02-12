@@ -66,6 +66,7 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 * Persistence
 
 #### Datasets + Technologies:
+* [Magic Leap](https://www.magicleap.com/) has been generous enough to give us 10 of their enterprise-grade devices, as well as a lot of mentors and technical support channels for building hacks on their devices throughout Friday night and Saturday. Would highly recommend, not an opportunity you see very often! Come to their Office Hours event in the AR/VR Lab (by Huang 218/219) from 10pm - 11pm on Friday night to get set up and chat with them. They're super excited to meet y'all.
 * [iOS ARKit Hackpack](https://github.com/TreeHacks/hackpack-arkit)
 * [Teleportal Dev](https://teleportal.dev/): A suite of tools and services that makes it easier to create mixed reality software, developer discord available [here](https://teleportal.dev/discord/)
 
