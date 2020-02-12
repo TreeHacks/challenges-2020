@@ -38,7 +38,7 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 
 * __Voice Assistance Grand Prize__
   * Sponsor: TreeHacks
-  * Prize: coming soon
+  * Prize: JBL Charge 3 Bluetooth Speaker for each team member
 * __VoiceFlow's Most User-Friendly Voice Assistance Hack__
   * Sponsor: [VoiceFlow](https://www.voiceflow.com/)
   * Prize: Amazon Echo (3rd Gen)
