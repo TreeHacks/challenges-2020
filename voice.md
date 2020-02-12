@@ -30,9 +30,9 @@ We're looking for creative, innovative ways to apply voice assistance to improve
     * Giovanni Campagna - Giovanni is a 4th year PhD student, advised by prof. Monica Lam. His interests lie at the intersection of programming languages and natural language, and in particular how to build practical systems that can be controlled with flexible in natural language. He is the original author and one of the lead developers of the Almond open virtual assistant.
     * Silei Xu - Silei is a 5th year Ph.D student in the Stanford Computer Science Department under the supervision of Prof. Monica Lam on the Almond project. His research focuses on making the digital world including the web, IoTs, and knowledge bases accessible and programmable with natural language.
 2. __Office Hours__ with Researchers from the [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
-  * Saturday 2/15, time tbd.
+    * Saturday 2/15, time tbd.
 3. __TBD__ by software developers from [Samsung Bixby](https://www.samsung.com/us/explore/bixby/) 
-  * Saturday 2/15, time tbd.
+    * Saturday 2/15, time tbd.
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
 
