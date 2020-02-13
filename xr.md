@@ -47,9 +47,9 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 ## :computer: Resources :books:
 
 #### Mentors:
-* Magic Leap (_technical_) - reachable through their office hours (refer to Events section), via Slack, and throughout the event in-person
+* Magic Leap (_technical_) - reachable through their office hours (refer to Events section), via their [development Discord](https://discord.gg/Azb7NW3), and throughout the event in-person, likely in the AR/VR Lab.
 <!--- * Snapchat (_technical_) - reachable at their booth + Slack --->
-* Stanford XR (_technical_) - reachable through workshop + Slack
+* Stanford XR (_technical_) - reachable through workshop (refer to Events section) + Slack
 
 #### Topics:
 * Gaming
