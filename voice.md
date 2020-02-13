@@ -40,11 +40,10 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 * __VoiceFlow's Most User-Friendly Voice Assistance Hack__
   * Sponsor: [VoiceFlow](https://www.voiceflow.com/)
   * Prize: Amazon Echo (3rd Gen)
-<!---
 * __Samsung's Best Use of Bixby__
-  * Sponsor: [Samsung Bixby](https://www.samsung.com/us/explore/bixby/)
-  * Prize: 1st place - TBA, 2nd place - TBA
---->
+  * Sponsor: [Samsung Bixby](https://bixby.developer.samsung.com/)
+  * Prize: 1st place - [Galaxy Watch Active 2 40 mm black(Bluetooth/Wifi)](https://www.samsung.com/us/smartwatches-and-fitness-bands/buy/s/Color/), 2nd place - [Samsung Wireless Earbuds](https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds--white-sm-r170nzwaxar/)
+  * Check out marketing site [here](https://bixby.developer.samsung.com/) and the dev portal [here](https://bixbydevelopers.com/)
 * __OVAL's Best Use of Almond__
   * Sponsor: [Stanford's Open Virtual Assistant Lab (OVAL)](https://oval.cs.stanford.edu/)
   * Prize: $500 Amazon gift card for winning team
@@ -61,7 +60,6 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 #### Mentors:
 <!--- * SoundHound (_technical_) - reachable at their booth + Slack --->
 * Stanford OVAL (_technical_) - reachable through Office Hours event + Slack
-<!--- * Samsung (_technical_) - reachable through Slack --->
 
 #### Topics:
 * Accessibility
