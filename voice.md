@@ -74,10 +74,11 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 * [SoundHound's Houndify](https://www.soundhound.com/houndify): Houndify is a platform that allows anyone to add smart, voice enabled, conversational interfaces to anything with an Internet connection. Once you integrate with Houndify, your product will instantly understand a wide variety of questions and commands.
    * What makes Houndify unique is that rather than being one link in a chain of technologies, Houndify is a one-stop destination for all of the technologies needed to voice enable anything.
    * Documentation [here](https://www.houndify.com/docs)
+   * Check out the prize for the Best Use of Houndify Voice AI API!
 * [Samsung Bixby](https://github.com/bixbydevelopers): Bixby is Samsung's personal voice assistant. It has numerous integrations and natural language capabilities.
    * [Developer YouTube](https://www.youtube.com/c/bixbydevelopers)
    * [GitHub](https://github.com/bixbydevelopers)
-   * Check out the prize for the Best Use of Bixby Prize!
+   * Check out the prize for the Best Use of Bixby!
 * [Almond](https://almond.stanford.edu/): Almond is an open, privacy-preserving voice assistant developed by [Stanford's Open Virtual Assistant Lab (OVAL)](https://oval.cs.stanford.edu/). You can build personalized programs with Almond through its capabilities defined in [Thingpedia](https://almond.stanford.edu/thingpedia), a crowd-sourced repository of commands and interfaces to online services and IoT.
    * OVAL is hosting a workshop Saturday morning and office hours Saturday afternoon. Swing by to get technical help with using OVAL! (check out the Events section of this guide for more details)
    * Check out the prize for the Best Use of Almond!
