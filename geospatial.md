@@ -14,7 +14,7 @@ We’re looking for creative and novel ways to use geospatial data and resources
  * Chat about Google Cloud Platform and Google Earth Engine, this talk highlights Google's Cloud Platform for easy petabyte-scale analysis of satellite imagery and other geospatial data.
 2. __MapmyIndia Location APIs & Map SDKs__ by [MapmyIndia](https://www.mapmyindia.com/)
  * Saturday 2/15, 1:40am - 2:00am, Huang 305
- * Our Map APIs make the user experience much more meaningful. With the most up-to-date location data and all India map coverage, we provide easy-to-use location and mapping functionalities that make it possible for users to develop and create a high-performance, interactive mapping experience for indoor and outdoor environments.
+ * Our Map APIs make the user experience much more meaningful. With the most up-to-date location data and all India map coverage, we provide easy-to-use location and mapping functionalities that make it possible for users to develop and create a high-performance, interactive mapping experience for indoor and outdoor environments. Once you've registered for an API key, shoot us an email at apisupport@mapmyindia.com with the subject line "Stanford TreeHacks API" to get _unlimited access_. 
 
 ## :sparkles: Challenges + Prizes :money_with_wings:
 * __Geospatial Grand Prize__
@@ -22,7 +22,7 @@ We’re looking for creative and novel ways to use geospatial data and resources
   * Prize: [$400 Southwest Airlines Gift Card](https://www.southwest.com/html/generated/help/faqs/southwestgiftcard_faq.html) distributed across team members
 * __MapmyIndia Prize__
   * Sponsor: [MapmyIndia](https://www.mapmyindia.com/)
-  * Prize: 1st place - $400 and free API access, 2nd place - $100 and free API access
+  * Prize: $400 and Free API Access to Best Use of MapmyIndia API, $100 and Free API Access to Runner-Up
 
 ## :computer: Resources :books:
 
@@ -50,5 +50,5 @@ We’re looking for creative and novel ways to use geospatial data and resources
 * [Flare](https://devpost.com/software/flare-8rn1ej): Identifying crime on student campuses to help avoid dangerous areas
 
 #### Mentors:
-* MapmyIndia (_technical_) - reachable over Slack
+* MapmyIndia (_technical_) - reachable at apisupport@mapmyindia.com or over Slack at organizer-mihir
 * Google Earth (_technical_) - reachable at Google Cloud booth and over Slack
