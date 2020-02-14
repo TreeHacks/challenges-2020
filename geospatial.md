@@ -22,7 +22,7 @@ We’re looking for creative and novel ways to use geospatial data and resources
   * Prize: [$400 Southwest Airlines Gift Card](https://www.southwest.com/html/generated/help/faqs/southwestgiftcard_faq.html) distributed across team members
 * __MapmyIndia Prize__
   * Sponsor: [MapmyIndia](https://www.mapmyindia.com/)
-  * Prize: coming soon
+  * Prize: 1st place - $400 and free API access, 2nd place - $100 and free API access
 
 ## :computer: Resources :books:
 
