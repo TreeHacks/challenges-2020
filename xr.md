@@ -50,7 +50,7 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 ## :computer: Resources :books:
 
 #### Mentors:
-* Magic Leap (_technical_) - reachable through their office hours (refer to Events section), via their [development Discord](https://discord.gg/Azb7NW3) + in-person
+* Magic Leap (_technical_) - reachable through their office hours (refer to Events section), via their [development Discord](https://discord.gg/Azb7NW3) + in-person at the AR/VR Lab
 <!--- * Snapchat (_technical_) - reachable at their booth + Slack --->
 * Stanford XR (_technical_) - reachable through workshop (refer to Events section) + Slack
 * Microsoft Hololens (_technical_) - reachable through talk (refer to Events section) + Slack + in person
@@ -71,8 +71,8 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 * Persistence
 
 #### Datasets + Technologies:
-* [Magic Leap](https://www.magicleap.com/) has been generous enough to give us 10 of their enterprise-grade devices, as well as a lot of mentors and technical support channels for building hacks on their devices throughout Friday night and Saturday. Would highly recommend, not an opportunity you see very often! Come to their Office Hours event in the AR/VR Lab (by Huang 218/219) from 10pm - 11pm on Friday night to get set up and chat with them. They're super excited to meet y'all.
-   * [Magic Leap QuickStart Guide](https://drive.google.com/file/d/1Yfd03CBuQJ-Vs2kDEiAdyHUHZIWkMNR1/view?usp=sharing)
+* [Magic Leap](https://www.magicleap.com/) has been generous enough to give us a few of their enterprise-grade devices, as well as a lot of mentors and technical support channels for building hacks on their devices throughout Friday night and Saturday. Would highly recommend, not an opportunity you see very often! Come to their Office Hours event in the AR/VR Lab (by Huang 218/219) from 10pm - 11pm on Friday night to get set up and chat with them. They're super excited to meet y'all.
+   * [Magic Leap QuickStart Guide](https://drive.google.com/file/d/1Yfd03CBuQJ-Vs2kDEiAdyHUHZIWkMNR1/view?usp=sharing) - EVERYTHING you need to get started developing on Unity or Unreal on Magic Leaps!
 * [iOS ARKit Hackpack](https://github.com/TreeHacks/hackpack-arkit)
 * [Teleportal Dev](https://teleportal.dev/): A suite of tools and services that makes it easier to create mixed reality software, developer discord available [here](https://teleportal.dev/discord/)
 
