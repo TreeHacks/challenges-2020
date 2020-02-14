@@ -60,7 +60,6 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 #### Mentors:
 * Hedron Vision (_technical + conceptual_) – reachable through workshop (refer to Events section) + Slack + in person
 * Magic Leap (_technical_) - reachable through their office hours (refer to Events section), via their [development Discord](https://discord.gg/Azb7NW3) + in-person at the AR/VR Lab
-<!--- * Snapchat (_technical_) - reachable at their booth + Slack --->
 * Stanford XR (_technical_) - reachable through workshop (refer to Events section) + Slack
 * Microsoft Hololens (_technical_) - reachable through talk (refer to Events section) + Slack + in person
 
