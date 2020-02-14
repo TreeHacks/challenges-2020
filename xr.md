@@ -30,8 +30,9 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 2. __Introducing StereoKit – Next-Gen MR Dev Tools__ with [Microsoft](https://www.microsoft.com/en-us/)
     * Friday 2/14, 10:40pm - 11:20pm, in Huang 018
     * StereoKit is an open source, cross-platform Mixed Reality library that makes MR development simple! Optimized for mobile MR hardware, and streamlined for non-game MR development, StereoKit provides important functionality that a game engine cannot.
-2. __Creating Digital Holograms with Hedron Vision__ by Sam Redmond, Founder of [Hedron Vision](https://oval.cs.stanford.edu/) & founder of TreeHacks :palm_tree:
+2. __Creating Digital Holograms with Hedron Vision__ by Sam Redmond, Founder of [Hedron Vision](https://hedronvision.com/) & founder of TreeHacks :palm_tree:
     * Saturday 2/15, 1:30am - 2am, Huang 305
+    * Hedron Vision helps you bring a 3D experience to 2D screens without extra hardware. With our technology, your phone screen transforms into a quasi-holographic display so that your 3D digital scenes appear to have perceptual depth. Our development tools integrate with Unity for mobile apps. In this workshop, you’ll learn how to integrate your TreeHacks 2020 project with Hedron’s technology to make your Unity applications appear holographic on phone displays, all with just a drag-and-drop plugin!
 3. __Building Blocks of Unity: Learn Basics for Any AR/VR Project__ with Arjun and Joseph from [Stanford XR Club](https://www.stanfordxr.org/)
     * Saturday 2/15, 11am - 11:30am, Huang 305.
 
@@ -49,12 +50,15 @@ We're looking for creative, innovative ways to apply AR/VR technology to improve
 
 ## :computer: Resources :books:
 #### Datasets + Technologies:
+* [Hedron Vision](https://hedronvision.com) - A Unity package to convert phone screens into quasi-holographic displays
+   * To see Hedron Vision in action on a sample app, [check out this gif](https://www.dropbox.com/s/e531j9fddqkn1bl/SurvivalShooterEarlyDemo.gif?raw=1)
 * [Magic Leap](https://www.magicleap.com/) has been generous enough to give us a few of their enterprise-grade devices, as well as a lot of mentors and technical support channels for building hacks on their devices throughout Friday night and Saturday. Would highly recommend, not an opportunity you see very often! Come to their Office Hours event in the AR/VR Lab (by Huang 218/219) from 10pm - 11pm on Friday night to get set up and chat with them. They're super excited to meet y'all.
    * [Magic Leap QuickStart Guide](https://drive.google.com/file/d/1Yfd03CBuQJ-Vs2kDEiAdyHUHZIWkMNR1/view?usp=sharing) - EVERYTHING you need to get started developing on Unity or Unreal on Magic Leaps!
 * [iOS ARKit Hackpack](https://github.com/TreeHacks/hackpack-arkit)
 * [Teleportal Dev](https://teleportal.dev/): A suite of tools and services that makes it easier to create mixed reality software, developer discord available [here](https://teleportal.dev/discord/)
 
 #### Mentors:
+* Hedron Vision (_technical + conceptual_) – reachable through workshop (refer to Events section) + Slack + in person
 * Magic Leap (_technical_) - reachable through their office hours (refer to Events section), via their [development Discord](https://discord.gg/Azb7NW3) + in-person at the AR/VR Lab
 <!--- * Snapchat (_technical_) - reachable at their booth + Slack --->
 * Stanford XR (_technical_) - reachable through workshop (refer to Events section) + Slack
