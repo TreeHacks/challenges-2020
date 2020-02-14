@@ -48,17 +48,17 @@ We're looking for creative, innovative ways to apply voice assistance to improve
   * Sponsor: [Stanford's Open Virtual Assistant Lab (OVAL)](https://oval.cs.stanford.edu/)
   * Prize: $500 Amazon gift card for winning team
   * TreeHacks webpage with topic ideas, tutorials, etc. [here](https://www.notion.so/Almond-TreeHacks-2020-8c2e4a2e32a945ce87743920def11a90)
-<!---
-* __SoundHound's Best Use of SoundHound API__
+* __SoundHound's Best Use of Houndify Voice AI API__
   * Sponsor: [SoundHound](https://www.soundhound.com/)
   * Prize: 3 prizes: $1,000, $500 and $250 for first, second, and third place teams
+  * Documentation [here](https://www.houndify.com/docs)
   * For more info, technical help, etc. find SoundHound's booth + chat with their mentors!
---->
+
 
 ## :computer: Resources :books:
 
 #### Mentors:
-<!--- * SoundHound (_technical_) - reachable at their booth + Slack --->
+* SoundHound (_technical_) - reachable at their booth + Slack
 * Stanford OVAL (_technical_) - reachable through Office Hours event + Slack
 
 #### Topics:
@@ -71,10 +71,18 @@ We're looking for creative, innovative ways to apply voice assistance to improve
 * Thinking of another use case not listed here? Awesome, feel free to go for it! Chat with voice assistance-specific mentors if you have any questions!
 
 #### Datasets + Technologies:
-<!---* [SoundHound's Houndify](https://www.soundhound.com/houndify): SoundHouse's Houndify is a speech-to-meaning engine that integrates voice and conversational intelligence into any product. --->
-* [VoiceFlow Business](https://www.voiceflow.com/hackathon/treehacks): VoiceFlow, an online platform that allows anyone to visually design, prototype, and publish Alexa skills and Google Actions, is offering TreeHacks participants a free year of VoiceFlow business. Click on [this link](https://www.voiceflow.com/hackathon/treehacks) to claim.
+* [SoundHound's Houndify](https://www.soundhound.com/houndify): Houndify is a platform that allows anyone to add smart, voice enabled, conversational interfaces to anything with an Internet connection. Once you integrate with Houndify, your product will instantly understand a wide variety of questions and commands.
+   * What makes Houndify unique is that rather than being one link in a chain of technologies, Houndify is a one-stop destination for all of the technologies needed to voice enable anything.
+   * Documentation [here](https://www.houndify.com/docs)
+* [Samsung Bixby](https://github.com/bixbydevelopers): Bixby is Samsung's personal voice assistant. It has numerous integrations and natural language capabilities.
+   * [Developer YouTube](https://www.youtube.com/c/bixbydevelopers)
+   * [GitHub](https://github.com/bixbydevelopers)
+   * Check out the prize for the Best Use of Bixby Prize!
 * [Almond](https://almond.stanford.edu/): Almond is an open, privacy-preserving voice assistant developed by [Stanford's Open Virtual Assistant Lab (OVAL)](https://oval.cs.stanford.edu/). You can build personalized programs with Almond through its capabilities defined in [Thingpedia](https://almond.stanford.edu/thingpedia), a crowd-sourced repository of commands and interfaces to online services and IoT.
-  * OVAL is hosting a workshop Saturday morning and office hours Saturday afternoon. Swing by to get technical help with using OVAL! (check out the Events section of this guide for more details)
+   * OVAL is hosting a workshop Saturday morning and office hours Saturday afternoon. Swing by to get technical help with using OVAL! (check out the Events section of this guide for more details)
+   * Check out the prize for the Best Use of Almond!
+* [VoiceFlow Business](https://www.voiceflow.com/hackathon/treehacks): VoiceFlow, an online platform that allows anyone to visually design, prototype, and publish Alexa skills and Google Actions, is offering TreeHacks participants a free year of VoiceFlow business. Click on [this link](https://www.voiceflow.com/hackathon/treehacks) to claim.
+   * Check out the prize for the Most User-Friendly Voice Assistance Hack!
 * [Home Assistant](https://www.home-assistant.io/): Home Assistant is an open-source home automation system that puts local control and privacy first, all on a Raspberry Pi (check out the Hardware Lab to fulfill all your hardware needs).
 * [Common Voice, Mozilla](https://voice.mozilla.org/en/datasets): Common Voices is an open-source, multi-language dataset of voices that anyone can use to train speech-enabled applications.
 * [AudioSet, Google Research](https://research.google.com/audioset/ontology/human_voice_1.html): AudioSet, a large collection of sound events from Google Research, has a "Human voice" section that has subcategories including speech, shout, screaming, whispering, and more.
