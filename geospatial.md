@@ -9,7 +9,7 @@ We’re looking for creative and novel ways to use geospatial data and resources
 
 ## :heart_eyes: Events at TreeHacks :evergreen_tree:
 <!--- Order by time --->
-1. __Intro to Google Earth Engine__ by [Google Cloud](https://www.google.com/earth/)
+1. __Intro to Google Earth Engine__ by [Google Cloud](https://cloud.google.com/)
  * Saturday 2/15, 12am - 12:20am, Huang 018
  * Chat about Google Cloud Platform and Google Earth Engine, this talk highlights Google's Cloud Platform for easy petabyte-scale analysis of satellite imagery and other geospatial data.
 2. __MapmyIndia Location APIs & Map SDKs__ by [MapmyIndia](https://www.mapmyindia.com/)
